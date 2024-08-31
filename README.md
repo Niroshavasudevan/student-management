@@ -10,5 +10,8 @@
 4.Delete the student
 ![Screenshot (162)](https://github.com/user-attachments/assets/94f2ce00-e5e4-4ee7-a9f1-f598679ca01f)
 
+![Screenshot (163)](https://github.com/user-attachments/assets/c4715ed3-bc8b-49ba-8ef0-fad78352cd43)
+
+
 
 
